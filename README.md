@@ -1,41 +1,27 @@
-# Website
+# Danabul
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+**Kolay Kullanım, Çok Dilli Destek, Güçlü Performans.**
 
-### Installation
+**Website:** [Danabul](https://danabul.vercel.app/)
 
-```
-$ yarn
-```
+Danabul, Angular kullanarak geliştirilmiş bir AR-GE projesidir. Amacı, kullanıcı dostu, çok dilli destek sunan ve yüksek performanslı bir uygulama sunarak, global pazara hitap etmektir. Bu proje, potansiyel müşterilere satılmak üzere tasarlanmıştır.
 
-### Local Development
+## Özellikler
 
-```
-$ yarn start
-```
+### 1. Hızlı ve Kolay Kurulum
+Danabul, anında kullanım için tasarlandı. Hızlı kurulum ve kullanıcı dostu arayüzü ile dakikalar içinde hazır olun!
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+<img src="https://github.com/yunusemreerkesikbas/DanabulDocs/blob/master/static/img/set.svg" alt="Hızlı ve Kolay Kurulum" width="200" height="200">
 
-### Build
+### 2. Global Erişim, Çok Dilli Destek
+Danabul, global pazarları hedefleyenler için mükemmel bir çözüm sunar. Kullanıcılarınızın kendi dillerinde sorunsuz deneyim yaşamasını sağlayın.
+<img src="https://github.com/yunusemreerkesikbas/DanabulDocs/blob/master/static/img/langg.svg" alt="Hızlı ve Kolay Kurulum" width="200" height="200">
 
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+### 3. Üstün Performans ve Güvenilirlik
+Danabul, yüksek performansı ve sağlam altyapısıyla kesintisiz ve güvenilir bir hizmet sunar. En yoğun dönemlerde bile mükemmel performans!
+<img src="https://github.com/yunusemreerkesikbas/DanabulDocs/blob/master/static/img/perf.svg" alt="Hızlı ve Kolay Kurulum" width="200" height="200">
+## Kullanılan Teknolojiler ve Araçlar
+- **Angular v15:** Modern web uygulamaları geliştirmek için kullanılan popüler bir framework.
+- **TypeScript:** JavaScript'in güçlü bir üst kümesi.
+- **@ngx-translate/core:** Angular uygulamaları için çok dilli destek sağlar.
+- **SCSS:** Daha iyi stil yönetimi için kullanılan CSS'in bir üst kümesi.
