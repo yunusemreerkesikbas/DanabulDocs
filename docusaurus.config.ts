@@ -91,7 +91,7 @@ const config: Config = {
           items: [
             {
               label: 'Github',
-              href: 'https://github.com/enoca',
+              href: 'https://github.com/yunusemreerkesikbas/DanabulDocs',
             },
           ],
         },

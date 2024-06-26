@@ -1,6 +1,6 @@
 # Localization
 
-Bu dokümantasyon, Angular projenizde kullanılan dil yönetimini ve `ngx-translate-core` paketinin nasıl kullanıldığını açıklar. Projede Türkçe (`tr`) ve İngilizce (`en`) dil seçenekleri mevcuttur. Dil değişimi, header'da bulunan dil butonlarına tıklanarak gerçekleştirilir. Ayrıca, statik metinler için `assets/i18n` dizininde `en.json` ve `tr.json` dosyaları oluşturulmuştur.
+Bu dokümantasyon, projede kullanılan dil yönetimini ve `ngx-translate-core` paketinin nasıl kullanıldığını açıklar. Projede Türkçe (`tr`) ve İngilizce (`en`) dil seçenekleri mevcuttur. Dil değişimi, header'da bulunan dil butonlarına tıklanarak gerçekleştirilir. Ayrıca, statik metinler için `assets/i18n` dizininde `en.json` ve `tr.json` dosyaları oluşturulmuştur.
 
 ## Dil Yönetimi
 

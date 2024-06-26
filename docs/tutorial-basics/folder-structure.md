@@ -46,4 +46,4 @@ Uygulamanın ana modülü ve bileşenlerini içerir.
 Uygulamanın statik varlıklarını içerir(resimler ve stiller).
 
 ## Genel Yapı
-BU yapıda her bileşen, sayfa veya hizmet belirli bir klasör altında gruplandırılarak düzenlenmiştir. Bu sayede geliştirme sırasında belirli bir bileşen veya sayfa ile ilgili dosyaları kolayca bulabilir ve yönetebilirsiniz.
+Bu yapıda her bileşen, sayfa veya hizmet belirli bir klasör altında gruplandırılarak düzenlenmiştir. Bu sayede geliştirme sırasında belirli bir bileşen veya sayfa ile ilgili dosyaları kolayca bulabilir ve yönetebilirsiniz.
